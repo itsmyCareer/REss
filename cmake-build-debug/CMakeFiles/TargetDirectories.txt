@@ -1,0 +1,3 @@
+/Users/itsmyair/CLionProjects/untitled/cmake-build-debug/CMakeFiles/ticket_bot.dir
+/Users/itsmyair/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/itsmyair/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
